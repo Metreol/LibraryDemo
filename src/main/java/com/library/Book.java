@@ -1,10 +1,17 @@
-package com.library.charlie;
+package com.library;
+
 
 public class Book {
     String title;
     String author;
     String isbn;
 
+    /** 
+    * Represents a book object for the Library Demo.
+    * @author  Charlie Shale
+    * @version 1.0
+    * @since   2021-12-18
+    */
     Book(String title, String author, String isbn) {
         this.title = title;
         this.author = author;

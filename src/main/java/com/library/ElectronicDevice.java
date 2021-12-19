@@ -1,4 +1,4 @@
-package com.library.charlie;
+package com.library;
 
 public class ElectronicDevice {
     private String deviceType;
